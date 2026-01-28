@@ -37,7 +37,7 @@ HTML5
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/ecommerce-project.git
+git clone 
 
 2. Navigate into project
 cd ecommerce-project
